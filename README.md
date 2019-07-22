@@ -6,12 +6,13 @@
  1. Download and install it:
  
  ```sh
- $ go get -u  
+ $ go get -u github.com/JameAn/kbEasemob 
  ```
  
  2. Import it in your code:
  
  ```go
+ import "github.com/JameAn/kbEasemob"
 ```
 
 ## Quick start
